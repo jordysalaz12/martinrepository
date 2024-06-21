@@ -1,0 +1,25 @@
+/* Estilos personalizados para el footer */
+footer {
+  background-color: white; /* Color de fondo negro */
+  color: #fff; /* Color de texto blanco */
+  padding: 20px 0; /* Espaciado interno */
+}
+
+.social-icons a {
+  color: black; /* Color de los íconos */
+  font-size: 24px; /* Tamaño de los íconos */
+  margin-right: 15px; /* Espacio entre íconos */
+}
+
+.social-icons a:hover {
+  color: black; /* Color de los íconos al pasar el mouse */
+  text-decoration: none; /* Quitar subrayado */
+}
+
+.logo-footer {
+  max-width: 150px; /* Ajustar el tamaño del logo */
+  margin-top: 10px; /* Espacio superior */
+}
+.empresa {
+  color: black;
+}

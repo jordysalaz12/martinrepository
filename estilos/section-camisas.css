@@ -1,0 +1,7 @@
+.section-camisas {
+  display: flex;
+  justify-content: center;
+}
+.card {
+  margin: 22px;
+}
